@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5uiZlHEfqwB_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">ONGRID</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="ONGRID_ORG">
+    <organization identifier="ONGRID_ORG">
+      <title>ONGRID</title>
+      <item identifier="Ev_Charging_SCO" isvisible="true" identifierref="__5uiZlHEfqwB_course_id_RES">
+        <title>ONGRID</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5uiZlHEfqwB_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="story_content/video_6aS6rky7OjV_22_48_712x402.mp4" />
+      <file href="mobile/poster_6kSeQK32KT2_video_6aS6rky7OjV_22_48_712x402.jpg" />
+      <file href="story_content/video_5br5VLuf3RL_22_48_720x406.mp4" />
+      <file href="mobile/poster_6YCWdovh5Jw_video_5br5VLuf3RL_22_48_720x406.jpg" />
+      <file href="story_content/video_5qOmkxBkGFl_22_48_720x406.mp4" />
+      <file href="mobile/poster_6939HDOZYSQ_video_5qOmkxBkGFl_22_48_720x406.jpg" />
+      <file href="story_content/video_5qhkhR3R5of_22_48_720x406.mp4" />
+      <file href="mobile/poster_5Y6MMBCSiLs_video_5qhkhR3R5of_22_48_720x406.jpg" />
+      <file href="story_content/video_6B11RCxMuFV_22_48_720x406.mp4" />
+      <file href="mobile/poster_6eQaxTTdoVJ_video_6B11RCxMuFV_22_48_720x406.jpg" />
+      <file href="story_content/video_6iy5b52Vc59_22_48_720x406.mp4" />
+      <file href="mobile/poster_6KTqEWHVjtp_video_6iy5b52Vc59_22_48_720x406.jpg" />
+      <file href="story_content/video_6WuSBZhFmvM_22_48_720x406.mp4" />
+      <file href="mobile/poster_5njkQSZP48W_video_6WuSBZhFmvM_22_48_720x406.jpg" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5esMvzCAVuR.js" />
+      <file href="html5/data/js/5kyM6WmutF7.js" />
+      <file href="html5/data/js/66NjEIPJjTJ.js" />
+      <file href="html5/data/js/6A2aozsaY6D.js" />
+      <file href="html5/data/js/6gd7ypSNulV.js" />
+      <file href="html5/data/js/6H6lmKkOlWf.js" />
+      <file href="html5/data/js/6ieWY29p9W8.js" />
+      <file href="html5/data/js/6OTBL0FOOKC.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
